@@ -1,5 +1,8 @@
 # The Walt Disney Company – Financial Performance & Segment Profitability Dashboard
 
+
+<img width="1966" height="1334" alt="Image 1-14-26 at 8 55 PM" src="https://github.com/user-attachments/assets/23a3b1e3-41aa-4b8c-b69f-b048eedf4453" />
+
 ## Overview
 This project analyzes The Walt Disney Company’s financial performance using publicly available FY2022–FY2024 Form 10-K data. The goal is to translate statutory financial disclosures into an executive-level Tableau dashboard that highlights company-wide performance, segment economics, and geographic revenue exposure.
 
