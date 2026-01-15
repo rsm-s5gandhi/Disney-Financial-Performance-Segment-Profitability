@@ -4,7 +4,7 @@
 <img width="1966" height="1334" alt="Image 1-14-26 at 8 55 PM" src="https://github.com/user-attachments/assets/23a3b1e3-41aa-4b8c-b69f-b048eedf4453" />
 
 ## Overview
-This project analyzes The Walt Disney Company’s financial performance using publicly available FY2022–FY2024 Form 10-K data. The goal is to translate statutory financial disclosures into an executive-level Tableau dashboard that highlights company-wide performance, segment economics, and geographic revenue exposure.
+This project analyzes The Walt Disney Company’s financial performance using publicly available FY2022–FY2024 Form 10-K data. The goal is to translate statutory financial disclosures into an executive-level Tableau dashboard that highlights company-wide performance and segment economics.
 
 The analysis is designed to reflect how financial planning, business intelligence, and strategy teams use data internally to support leadership discussions and decision-making.
 
@@ -13,7 +13,6 @@ The analysis is designed to reflect how financial planning, business intelligenc
 ## Objectives
 - Summarize Disney’s overall financial health through key performance indicators
 - Compare revenue scale versus profitability across business segments
-- Highlight geographic concentration of revenue
 - Present insights in a clear, executive-friendly format rather than raw financial tables
 
 ---
